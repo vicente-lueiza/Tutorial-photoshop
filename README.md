@@ -1,10 +1,17 @@
 # Tutorial de Photoshop
 
-_Adobe Photoshop es un editor de fotografías desarrollado por Adobe Systems Incorporated. Usado principalmente para el retoque de fotografías y gráficos. Este tutorial fue creado por ayudantes del FabLab y corresponde a un recopilatorio de herramientas empleadas para la creción y edición de infografías, esto con la finalidad de aportar en su desarrollo y aplicación de la herramienta."_
+_Adobe Photoshop es un editor de fotografías desarrollado por Adobe Systems Incorporated. Usado principalmente para el retoque de fotografías y gráficos. 
+Este tutorial fue creado por ayudantes del FabLab y corresponde a un recopilatorio de herramientas empleadas para la creción y edición de infografías, esto con la finalidad de aportar en su desarrollo y aplicación de la herramienta."_
 
 ## Herramientas Básicas
 
-__
+Se presenta a continuación 
+
+<img title = "ajustes" height = "400" src = "./Imgs/transformar.png">
+<img title = "ajustes" height = "400" src = "./Imgs/capas.png">
+<img title = "ajustes" height = "400" src = "./Imgs/ctrlt.png">
+<img title = "ajustes" height = "400" src = "./Imgs/seleccion.jpg">
+<img title = "ajustes" height = "400" src = "./Imgs/Opcionesdeseleccion.png">
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
