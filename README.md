@@ -7,11 +7,9 @@ Este tutorial fue creado por ayudantes del FabLab y corresponde a un recopilator
 
 Se presenta a continuación 
 
+<img title = "ajustes" height = "400" src = "./Imgs/Principal.png">
+
 <img title = "ajustes" height = "400" src = "./Imgs/transformar.png">
-<img title = "ajustes" height = "400" src = "./Imgs/capas.png">
-<img title = "ajustes" height = "400" src = "./Imgs/ctrlt.png">
-<img title = "ajustes" height = "400" src = "./Imgs/seleccion.jpg">
-<img title = "ajustes" height = "400" src = "./Imgs/Opcionesdeseleccion.png">
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
