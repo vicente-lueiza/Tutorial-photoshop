@@ -1,4 +1,4 @@
-# Tutorial de Photoshop
+# Introdución al Photoshop
 
 _Adobe Photoshop es un editor de fotografías desarrollado por Adobe Systems Incorporated. Usado principalmente para el retoque de fotografías y gráficos. 
 Este tutorial fue creado por ayudantes del FabLab y corresponde a un recopilatorio de herramientas empleadas para la creción y edición de infografías, esto con la finalidad de aportar en su desarrollo y aplicación de la herramienta."_
@@ -53,7 +53,20 @@ _**Mover:** esta herramienta actua para desplazar a la capa seleccionada de form
 
 ### Quitar el fondo a una imagen
 
-_A partir de la herramienta de selección introducida a lo largo de este tutorial, nos encontramos con una gran herramienta para la edición de fotografías y que es la._
+_A partir de la herramienta de selección introducida a lo largo de este tutorial, nos encontramos con una gran herramienta para la edición de fotografías. Para quitar el fondo de una imagen en primer lugar se recomienda el uso de imagenes con un alto contraste, asi se facilitara la acción, dicho esto se seleccionara la herramienta de selección como se observa en la imagen_
+
+<p align="center">
+  <img title = "ajustes" height = "400" src = "./Imgs/seleccion.jpg">
+
+Luego cuidadosamente se debe seleccionar el borde de la imagen, siendo lo que esta al interior de la linea punteada los elementos que se consevan y los que están al exterior los que se eliminan. Como se observa en la imagen a continuación, las opciones de selección, se puede seleccionar como deseleccionar elementos, además de jugar con la opacidad del puntero, entre otros. 
+
+<p align="center">
+  <img title = "ajustes" height = "50" src = "./Imgs/Opcionesdeseleccion.PNG">
+
+Como recomdendación al terminar la selección se debe crear una mascara, así el fondo en vez de elimitarse se escondera y en el caso de algún error a partir de la herramienta de pincel corregir sobre la mascara como se observa en la imagen a continuación.
+
+<p align="center">
+  <img title = "ajustes" height = "400" src = "./Imgs/seleccionmascara.png">
 
 ### Transformar
 
@@ -67,6 +80,5 @@ _Para el uso de esta herramienta tambien se puede usar el comando ctrl+T que nos
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/ctrlt.PNG">
 
-
-
+### Patrón de imagenes
 
