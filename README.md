@@ -1,18 +1,18 @@
 # Introdución al Photoshop
 
-_Adobe Photoshop es un editor de fotografías desarrollado por Adobe Systems Incorporated. Usado principalmente para el retoque de fotografías y gráficos. 
+_Adobe Photoshop es un editor de fotografías desarrollado por Adobe Systems Incorporated, usado principalmente para el retoque de fotografías y gráficos. 
 Este tutorial fue creado por ayudantes del FabLab y corresponde a un recopilatorio de herramientas empleadas para la creción y edición de infografías, esto con la finalidad de aportar en su desarrollo y aplicación de la herramienta."_
 
 ## Herramientas Básicas
 
-_Como se puede observar al costado izquierdo y derecho de la imagen, se presentan un gran numero de herramientas que este software nos provee para la edicción de imagenes y que serán muy utiles a medida que nos adentramos al mundo de la edición de la fotografía y la creación de graficos en general, pero antes de entrar de lleno en estas herraminetas, será necesario saber como opera este programa y cuales son las grandes ventajas que este posee._
+_Como se puede observar al costado izquierdo y derecho de la imagen, se presentan un gran numero de herramientas que este software nos provee para la edicción de imágenes y que serán muy utiles a medida que nos adentramos al mundo de la edición fotográfica y la creación de gráficos en general, pero antes de entrar de lleno en estas herraminetas, será necesario saber como opera este programa y cuales son las grandes ventajas que este posee._
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/Principal.PNG">
 
 ### Herramientas de Capa 
 
-_Una de las grandes ventajas que tiene este software es la creación de capas y mascaras vectoriales, que nos permiten la superposición de imagenes, el movimiento de imagenes y corrección de los espacios "vacios", la creación de patrones, entre otros._
+_Una de las grandes ventajas que tiene este software es la creación de capas y mascaras vectoriales, que nos permiten la superposición de imágenes, el movimiento de imágenes y corrección de los espacios "vacios", la creación de patrones, entre otros._
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/capas.PNG">
@@ -36,7 +36,7 @@ _**Mascara:** Corresponde a como dice su nombre una mascara, esta herramineta ti
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/mascara.png">
 
-_**Capa de relleno:**  su uso principal es para agregar fondos a las imagenes, pueden ser de colores uniformes o cualquiera en generla_
+_**Capa de relleno:**  su uso principal es para agregar fondos a las imagenes, pueden ser de colores uniformes o cualquiera en generl_
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/capaderelleno.png">
@@ -48,8 +48,12 @@ _**Mover:** esta herramienta actua para desplazar a la capa seleccionada de form
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/mover.png">
 
+_Dentro de su panel además nos permite alinear y centrar las imágenes._
 
-## Opreaciones utiles
+<p align="center">
+  <img title = "ajustes" height = "50" src = "./Imgs/centrar.PNG">
+  
+## Operaciones útiles
 
 ### Quitar el fondo a una imagen
 
@@ -80,5 +84,24 @@ _Para el uso de esta herramienta tambien se puede usar el comando ctrl+T que nos
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/ctrlt.PNG">
 
-### Patrón de imagenes
+### Crear un patrón de imagenes
 
+_Para crear un patrón de imagenes se utilizará la herramienta de motivo, que nos ayudara a estampar una imagen a través de la capa. Para crear una imagen patron primero se deben seleccionar las imagenes con las que se quiere realizar el patrón, para este caso y de modo que la explicación sea más sencillo solo se utilizara un recurso._  
+
+<p align="center">
+  <img title = "ajustes" height = "400" src = "./Imgs/mosaico.png">
+
+_Como se observa en la imagen lo primero es ubicar el recurso que queremos modificar en una capa, ir al menu desplegable de filtro, pinchar en la opción de otro y en desplazamiento. Seleccionada esa opción aparecerá un cuadro como el que se muestra en la imagen y que nos permitirá desplazar la imagen por el fonfo hasta que quede seccionado, esto para que al repetir la imagen estas no tengan problema al conectarse._   
+
+<p align="center">
+  <img title = "ajustes" height = "400" src = "./Imgs/desplazamiento.png">
+
+_Ya posicionada la imagen en los costados, se agrega un nuevo recurso ubicandolo en la poición que se requiera, en este caso al centro ya que será la parte principal de nuestro mosaico. Ya ubicada en el centro, se debe presionar el siguiente comando ctrl+alt+shift+E que nos servira para copiar todas las capas y enlazarlas, siendo esta capa la que transformaremos a un motivo_
+
+<p align="center">
+  <img title = "ajustes" height = "400" src = "./Imgs/motivo.PNG">
+
+_Para transformar esta capa en motivo se debe seleccionar en primer lugar, ir al menú desplegable en edición y pinchar definir motivo, aqui se desplegara una ventana donde debemos dar nombre a este motivo. Finalmente para usarlo existen dos formas, la primera es a partir de la herramienta de motivo, para ello se debe crear un nuevo archivo, crear una capa nueva y sobre ella usar la herramienta tampon de motivo que se aplicara sobre la nueva capa igual que un pincel, como se puede observar en la imagen siguiente._ 
+
+<p align="center">
+  <img title = "ajustes" height = "400" src = "./Imgs/aplicarmotivo.png">
