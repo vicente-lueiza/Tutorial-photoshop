@@ -36,18 +36,24 @@ _**Mascara:** Corresponde a como dice su nombre una mascara, esta herramineta ti
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/mascara.png">
 
-_**Capa de relleno:** _
+_**Capa de relleno:**  su uso principal es para agregar fondos a las imagenes, pueden ser de colores uniformes o cualquiera en generla_
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/capaderelleno.png">
 
 _Ya desarrolladas de forma introductoria las herramientas de capas se puede continuar con el desarrollo de las herramientas básicas del software y que corresponden a los iconos a la izquierda de la pantalla_
 
+_**Mover:** esta herramienta actua para desplazar a la capa seleccionada de forma libre a traves del lienzo o a traves del programa, pudiendo desplazar imagenes desde una ventana a otra._
+
+<p align="center">
+  <img title = "ajustes" height = "400" src = "./Imgs/mover.png">
+
 
 ## Opreaciones utiles
 
 ### Quitar el fondo a una imagen
 
-_A partir de la herramienta de selección introducida a lo largo de este tutorial, nos encontramos con una gran herramienta para la edición de fotografías y que es la _
+_A partir de la herramienta de selección introducida a lo largo de este tutorial, nos encontramos con una gran herramienta para la edición de fotografías y que es la._
+
 <img title = "ajustes" height = "400" src = "./Imgs/transformar.png">
 
