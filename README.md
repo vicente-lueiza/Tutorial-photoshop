@@ -55,5 +55,18 @@ _**Mover:** esta herramienta actua para desplazar a la capa seleccionada de form
 
 _A partir de la herramienta de selección introducida a lo largo de este tutorial, nos encontramos con una gran herramienta para la edición de fotografías y que es la._
 
-<img title = "ajustes" height = "400" src = "./Imgs/transformar.png">
+### Transformar
+
+_La herramienta de transformar se encuentra en el menú desplegable al pinchar edición, esta herramienta nos sirve para modificar la forma de la imagen teniendo las funciones de escala, rotar, sesgar, distorsionar, perspectiva, deformar y voltear, muy utiles al momento de editar alguna imagen._
+
+<p align="center">
+  <img title = "ajustes" height = "400" src = "./Imgs/transformar.png">
+
+_Para el uso de esta herramienta tambien se puede usar el comando ctrl+T que nos permite modificar la estructura de la imagen, con menos opciones que en la anterior, agregando que el mantener apretado ctrl se activa la función de transformación libre, muy útil al momento de trabajar con imagenes en perspectiva, esto debido a que el comando anterior solo permite hacer cambios simetricos de la estructura, obteniendo resultados como el siguiente_
+
+<p align="center">
+  <img title = "ajustes" height = "400" src = "./Imgs/ctrlt.PNG">
+
+
+
 
