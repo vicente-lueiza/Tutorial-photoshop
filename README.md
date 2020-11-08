@@ -17,16 +17,16 @@ _Una de las grandes ventajas que tiene este software es la creación de capas y 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/capas.PNG">
 
-_La imagen anterior corresponde al panel de capas, en este panel se administra estas, determinando la posicion de ellas en la imagen, donde las capas que se encuentran superpuestas en el nivel superior de la imagen son las capas que aparecen primero_
+_La imagen anterior corresponde al panel de capas, en este panel se administran estas, determinando la posición de ellas en la imagen, donde las capas que se encuentran superpuestas en el nivel superior de la imagen son las capas que aparecen primero_
 
-_En la parte inferior de este panel aparecen las herranientas de capas, se presentan a continuación:_
+_En la parte inferior de este panel aparecen las herranientas de capas, que se presentan a continuación:_
 
-_**Enlazar capas:** Nos permite crear dependencia entre las capas seleccionadas, es decir, los ajustes que se realicen a una de las capas se realizarán automáticamente a la capa ligada._
+_**Enlazar capas:** Nos permite crear dependencia entre las capas seleccionadas, es decir, los ajustes que se realicen a una de las capas se realizarán automáticamente a la o las capa ligadas._
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/enlazar.png">
 
-_**Estilo de capa:** Sirve para predefinir configuraciones y determinarlas como preestablecidos para modelos posteriores._
+_**Estilo de capa:** Sirve para predefinir configuraciones y determinarlas como preestablecidas para modelos posteriores._
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/estilo.png">
@@ -36,14 +36,14 @@ _**Mascara:** Corresponde a como dice su nombre una mascara, esta herramineta ti
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/mascara.png">
 
-_**Capa de relleno:**  su uso principal es para agregar fondos a las imagenes, pueden ser de colores uniformes o cualquiera en generl_
+_**Capa de relleno:**  su uso principal es para agregar fondos a las imagenes, pueden ser de colores uniformes o cualquiera en general_
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/capaderelleno.png">
 
 _Ya desarrolladas de forma introductoria las herramientas de capas se puede continuar con el desarrollo de las herramientas básicas del software y que corresponden a los iconos a la izquierda de la pantalla_
 
-_**Mover:** esta herramienta actua para desplazar a la capa seleccionada de forma libre a traves del lienzo o a traves del programa, pudiendo desplazar imagenes desde una ventana a otra._
+_**Mover:** esta herramienta actua para desplazar a la capa seleccionada de forma libre a traves del lienzo o a traves del programa, pudiendo desplazar imágenes desde una ventana a otra._
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/mover.png">
@@ -57,7 +57,7 @@ _Dentro de su panel además nos permite alinear y centrar las imágenes._
 
 ### Quitar el fondo a una imagen
 
-_A partir de la herramienta de selección introducida a lo largo de este tutorial, nos encontramos con una gran herramienta para la edición de fotografías. Para quitar el fondo de una imagen en primer lugar se recomienda el uso de imagenes con un alto contraste, asi se facilitara la acción, dicho esto se seleccionara la herramienta de selección como se observa en la imagen_
+_A partir de la herramienta de selección introducida a lo largo de este tutorial, nos encontramos con una gran herramienta para la edición de fotografías. Para quitar o cambiar el fondo de una imagen se recomienda el uso de imagenes con un alto contraste facilitando así la acción. En primer lugar se selecciona la herramienta de selección rápida como se observa en la imagen_
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/seleccion.jpg">
@@ -86,12 +86,12 @@ _Para el uso de esta herramienta tambien se puede usar el comando ctrl+T que nos
 
 ### Crear un patrón de imagenes
 
-_Para crear un patrón de imagenes se utilizará la herramienta de motivo, que nos ayudara a estampar una imagen a través de la capa. Para crear una imagen patron primero se deben seleccionar las imagenes con las que se quiere realizar el patrón, para este caso y de modo que la explicación sea más sencillo solo se utilizara un recurso._  
+_Para crear un patrón de imágenes se utilizará la herramienta de motivo, que nos ayudara a estampar una imagen a través de la capa. Para crear una imagen patron primero se deben seleccionar las imagenes con las que se quiere realizar el patrón, para este caso y de modo que la explicación sea más sencilla solo se utilizará un recurso._  
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/mosaico.png">
 
-_Como se observa en la imagen lo primero es ubicar el recurso que queremos modificar en una capa, ir al menu desplegable de filtro, pinchar en la opción de otro y en desplazamiento. Seleccionada esa opción aparecerá un cuadro como el que se muestra en la imagen y que nos permitirá desplazar la imagen por el fonfo hasta que quede seccionado, esto para que al repetir la imagen estas no tengan problema al conectarse._   
+_Como se observa en la imagen lo primero es ubicar el recurso que queremos modificar en una capa, ir al menu desplegable de filtro, pinchar en la opción de otro y en desplazamiento. Seleccionada esa opción aparecerá un cuadro como el que se muestra en la imagen y que nos permitirá desplazar la imagen por el fondo hasta que quede seccionado, esto para que al repetir la imagen estas no tengan problema al conectarse._   
 
 <p align="center">
   <img title = "ajustes" height = "400" src = "./Imgs/desplazamiento.png">
