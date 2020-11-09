@@ -39,7 +39,7 @@ _**Mascara:** Corresponde a como dice su nombre una mascara, esta herramineta ti
 _**Capa de relleno:**  su uso principal es para agregar fondos a las imagenes, pueden ser de colores uniformes o cualquiera en general_
 
 <p align="center">
-  <img title = "ajustes" height = "400" src = "./Imgs/CapaDeRelleno.png">
+  <img title = "ajustes" height = "400" src = "./Imgs/HerramientaRelleno.png">
 
 _Ya desarrolladas de forma introductoria las herramientas de capas se puede continuar con el desarrollo de las herramientas básicas del software y que corresponden a los iconos a la izquierda de la pantalla_
 
@@ -65,12 +65,12 @@ _A partir de la herramienta de selección introducida a lo largo de este tutoria
 Luego cuidadosamente se debe seleccionar el borde de la imagen, siendo lo que esta al interior de la linea punteada los elementos que se consevan y los que están al exterior los que se eliminan. Como se observa en la imagen a continuación, las opciones de selección, se puede seleccionar como deseleccionar elementos, además de jugar con la opacidad del puntero, entre otros. 
 
 <p align="center">
-  <img title = "ajustes" height = "50" src = "./Imgs/OpcionesDeSeleccion.PNG">
+  <img title = "ajustes" height = "50" src = "./Imgs/PanelSeleccion.PNG">
 
 Como recomdendación al terminar la selección se debe crear una mascara, así el fondo en vez de elimitarse se escondera y en el caso de algún error a partir de la herramienta de pincel corregir sobre la mascara como se observa en la imagen a continuación.
 
 <p align="center">
-  <img title = "ajustes" height = "400" src = "./Imgs/SeleccionMascara.png">
+  <img title = "ajustes" height = "400" src = "./Imgs/ColorearMascara.png">
 
 ### Transformar
 
